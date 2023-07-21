@@ -13,7 +13,7 @@
 
 🔍 Looking for Opportunities: I am currently on the lookout for entry-level software development roles that provide a supportive environment for professional growth and foster a culture of innovation. If you think I could be a great fit for your team or have any exciting projects to collaborate on, please feel free to reach out!
 
-📫 Contact: You can connect with me through email at (i.rajjmehta@gmail.com) or message me here on GitHub. I am open to networking, mentorship, and any valuable advice that you may have for someone starting their journey in the software development industry.
+📫 Contact: You can connect with me through email at i.rajjmehta@gmail.com or message me here on GitHub. I am open to networking, mentorship, and any valuable advice that you may have for someone starting their journey in the software development industry.
 
 Let's build the future together, one line of code at a time! 🚀
 
