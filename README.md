@@ -26,22 +26,21 @@ Let's build the future together, one line of code at a time! 🚀
 
 ## Skills:-
 Functional:
-SQL [https://en.wikipedia.org/wiki/SQL]
-MySQL: https://www.mysql.com/
-PostgreSQL: https://www.postgresql.org/
-Spark: https://spark.apache.org/
+SQL
+MySQL
+PostgreSQL
+Spark
 Technical:
-Python: https://www.python.org/
-Java: https://www.java.com/
-C++: https://isocpp.org/
-Scala: https://www.scala-lang.org/
-HTML: https://developer.mozilla.org/en-US/docs/Web/HTML
-CSS: https://developer.mozilla.org/en-US/docs/Web/CSS
+Python
+Java
+C++
+Scala
+HTML
+CSS
 Frameworks:
-AngularJS: https://angularjs.org/
-React Native: https://reactnative.dev/
-ReactJS: https://reactjs.org/
-These are the link addresses for your reference.
+AngularJS
+React Native
+ReactJS
 
 
 
